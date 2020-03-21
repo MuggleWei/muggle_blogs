@@ -1,0 +1,4 @@
+- blogs
+	- crypt
+		- enigma
+			- [enigma.md](blogs/crypt/enigma/enigma.md)
