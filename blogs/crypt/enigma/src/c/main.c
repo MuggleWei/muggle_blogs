@@ -84,7 +84,7 @@ int main(int argc, char *argv[])
 {
 	if (argc < 3)
 	{
-		fprintf(stderr, "usage: %s communicate_key(three random alphabet, two times) plaintext", argv[0]);
+		fprintf(stderr, "usage: %s communicate_key(three random alphabet, two times) plaintext\n", argv[0]);
 		exit(EXIT_FAILURE);
 	}
 
