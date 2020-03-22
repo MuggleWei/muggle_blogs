@@ -1,4 +1,6 @@
 - blogs
 	- crypt
+		- des
+			- [des.md](blogs/crypt/des/des.md)
 		- enigma
 			- [enigma.md](blogs/crypt/enigma/enigma.md)
