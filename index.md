@@ -1,5 +1,7 @@
 - blogs
 	- crypt
+		- basic_concept
+			- [basic_concept.md](blogs/crypt/basic_concept/basic_concept.md)
 		- des
 			- [des.md](blogs/crypt/des/des.md)
 		- enigma
