@@ -1,2 +1,4 @@
 - 密码学
     - [基础概念](basic_concept/basic_concept.md)
+    - [Enigma](enigma/enigma.md)
+    - [DES](des/des.md)
